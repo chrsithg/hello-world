@@ -1,5 +1,6 @@
 {
-  "name": "hello-world",
-  "title": "hello-world",
-  "version": "0.0.1"
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "^2.0.0-beta1"
+  }
 }
